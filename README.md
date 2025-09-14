@@ -33,7 +33,7 @@ BankingSystem/
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/BankingSystem.git
+   https://github.com/Kirti-2023/BankingSystem/blob/main/banking_system.py
    
 2. **Navigate into the project folder**:
    ```bash
@@ -89,4 +89,5 @@ date_time, account_no, type, amount, target_acc_no
 
 **Example:**
 100001,Deposit,7000.0,2025-09-14 14:46:06.223209
+
 
